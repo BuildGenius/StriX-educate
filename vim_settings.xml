@@ -2,7 +2,15 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/WebstormProjects/Strix_educate/routes/users.js" timestamp="1531475361532">
+        <mark key="[" line="5" column="35" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1531475612644">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Strix_educate/app.js" timestamp="1531475009803" />
+    </filemarks>
     <jumps />
     <registers />
     <search>
@@ -10,6 +18,10 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
