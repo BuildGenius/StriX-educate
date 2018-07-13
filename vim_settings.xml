@@ -9,15 +9,35 @@
       <file name="/JavaScript Console" timestamp="1531475612644">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/EDUCATE_STRIX/public/stylesheets/style.css" timestamp="1531477414550">
+        <mark key="'" line="22" column="25" />
+        <mark key="[" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/Strix_educate/app.js" timestamp="1531475009803" />
+      <file name="$USER_HOME$/WebstormProjects/EDUCATE_STRIX/views/index.pug" timestamp="1531478104514">
+        <mark key="[" line="2" column="12" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="16" column="25" filename="$USER_HOME$/WebstormProjects/EDUCATE_STRIX/public/stylesheets/style.css" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text encoding="base64">XDxhbGljZWJsdWVcPg==</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxhbGljZWJsdWVcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxhbGljZWJsdWVcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxhbGljZWJsdWVcPg==</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
